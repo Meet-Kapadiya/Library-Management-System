@@ -8,5 +8,4 @@ Functionalities
   - removeBook
   - issueBook
   - returnBook
-  - checkBookStatus
- and many more ...
+  - checkBookStatus & So on ...
